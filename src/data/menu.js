@@ -1,0 +1,15 @@
+export const foodMenu = [
+  { id: 1, name: "Dadinhos de Tapioca", desc: "Cubos crocantes de tapioca com queijo coalho, acompanhados de geleia de pimenta artesanal.", price: "R$ 32,00", category: "Entradas", image: "https://images.unsplash.com/photo-1596910547037-846b1980329f?auto=format&fit=crop&q=80&w=800" },
+  { id: 2, name: "Carpaccio Rústico", desc: "Lâminas finas de lagarto, alcaparras, parmesão capa preta e molho de mostarda e mel. Acompanha torradas.", price: "R$ 45,00", category: "Entradas", image: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?auto=format&fit=crop&q=80&w=800" },
+  { id: 3, name: "Burger Santa Dose", desc: "Blend de 180g, queijo brie empanado, rúcula, cebola caramelizada e maionese trufada no pão brioche.", price: "R$ 48,00", category: "Pratos Principais", image: "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&q=80&w=800" },
+  { id: 4, name: "Risoto de Camarão", desc: "Arroz arbóreo cremoso com camarões rosa, limão siciliano e finalizado com azeite de ervas.", price: "R$ 62,00", category: "Pratos Principais", image: "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?auto=format&fit=crop&q=80&w=800" },
+  { id: 5, name: "Grand Gâteau", desc: "Bolo de chocolate quente com interior cremoso, picolé Magnum e calda de frutas vermelhas.", price: "R$ 38,00", category: "Sobremesas", image: "https://images.unsplash.com/photo-1624353365286-3f8d62daad51?auto=format&fit=crop&q=80&w=800" },
+];
+
+export const drinkMenu = [
+  { id: 6, name: "Santa Gin", desc: "Gin importado, tônica, hibisco, zimbro e uma rodela de laranja bahia maçaricada.", price: "R$ 34,00", category: "Alcoólicas", image: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?auto=format&fit=crop&q=80&w=800" },
+  { id: 7, name: "Moscow Mule", desc: "Vodka, xarope de gengibre artesanal, limão e nossa espuma cítrica assinatura.", price: "R$ 30,00", category: "Alcoólicas", image: "https://images.unsplash.com/photo-1530991802296-6e6950000a01?auto=format&fit=crop&q=80&w=800" },
+  { id: 8, name: "Negroni Envelhecido", desc: "Gin, Vermouth Rosso e Campari, envelhecido em barril de carvalho por 30 dias.", price: "R$ 38,00", category: "Alcoólicas", image: "https://images.unsplash.com/photo-1556679343-c7306c1976bc?auto=format&fit=crop&q=80&w=800" },
+  { id: 9, name: "Soda Italiana", desc: "Água com gás e xarope de maçã verde ou frutas vermelhas. Refrescante e leve.", price: "R$ 18,00", category: "Não Alcoólicas", image: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&q=80&w=800" },
+  { id: 10, name: "Caipirinha Clássica", desc: "A autêntica brasileira: Cachaça artesanal, limão taiti, açúcar e muito gelo.", price: "R$ 22,00", category: "Alcoólicas", image: "https://images.unsplash.com/photo-1513558161293-cdaf765ed2fd?auto=format&fit=crop&q=80&w=800" },
+];
